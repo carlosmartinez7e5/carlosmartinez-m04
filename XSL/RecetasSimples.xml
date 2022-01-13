@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="templateNoTable.xslt"?>
+<recetario>
+    <receta>
+        <imatge image="../imagenes/salsatomate.jpeg"/>
+        <nombre> Salsa de tomate casera </nombre>
+        <tipo> Salsa </tipo>
+        <tiempoPreparacion> 1,30 horas </tiempoPreparacion>
+        <dificultad> 3/10 </dificultad>
+        <personas> 1 </personas>
+    </receta>
+    <receta>
+        <imatge image="../imagenes/sopitah.jpg"/>
+        <nombre>Sopa de la huerta</nombre>
+        <tipo>Primero</tipo>
+        <tiempoPreparacion> 1 hora</tiempoPreparacion>
+        <dificultad> 5/10</dificultad>
+        <personas>4</personas>
+    </receta>
+    <receta>
+        <imatge image="../imagenes/calabacines.jpg"/>
+        <nombre>Crema de calabacín</nombre>
+        <tipo>Primero</tipo>
+        <tiempoPreparacion> 1,30 horas</tiempoPreparacion>
+        <dificultad> 4/10</dificultad>
+        <personas>2</personas>
+    </receta> 
+    <receta>
+        <imatge image="../imagenes/croquetas.jpeg"/>
+        <nombre> Croquetas de pollo y jamón </nombre>
+        <tipo> Segundo </tipo>
+        <tiempoPreparacion> 30 minutos </tiempoPreparacion>
+        <dificultad> 6/10 </dificultad>
+        <personas> 4 </personas>
+    </receta>
+    <receta>
+        <imatge image="../imagenes/tortilla.jpg"/>
+        <nombre>Tortilla de patatas</nombre>
+        <tipo>Segundo</tipo>
+        <tiempoPreparacion>20 minutos</tiempoPreparacion>
+        <dificultad> 4/10 </dificultad>
+        <personas>5</personas>
+  </receta>
+  <receta>
+    <imatge image="../imagenes/arrozcurry.jpeg"/>
+    <nombre>Arroz blanco con curry</nombre>
+    <tipo>Plato único</tipo>
+    <tiempoPreparacion>30 minutos</tiempoPreparacion>
+    <dificultad>4/10</dificultad>
+    <personas>2</personas>
+  </receta>
+    <receta>
+    <imatge image="../imagenes/chuletacerdo.jpg"/>
+    <nombre>Chuletas de cerdo Tonkatsu</nombre>
+    <tipo>Segundo</tipo>
+    <tiempoPreparacion>20 minutos</tiempoPreparacion>
+    <dificultad>3/10</dificultad>
+    <personas>4</personas>
+  </receta>
+    <receta>
+    <imatge image="../imagenes/pankakes.jpg"/>
+    <nombre>Tortitas caseras</nombre>
+    <tipo>Postre</tipo>
+    <tiempoPreparacion>25 minutos</tiempoPreparacion>
+    <dificultad>4/10</dificultad>
+    <personas>6</personas>
+  </receta>
+    <receta>
+    <imatge image="../imagenes/brocheta.jpg"/>
+    <nombre>Brochetas de champiñones</nombre>
+    <tipo>Primero</tipo>
+    <tiempoPreparacion>10 minutos</tiempoPreparacion>
+    <dificultad>2/10</dificultad>
+    <personas>2</personas>
+  </receta>
+    <receta>
+    <imatge image="../imagenes/mus.jpg"/>
+    <nombre>Mouse de chocolate</nombre>
+    <tipo>Postre</tipo>
+    <tiempoPreparacion>15 minutos</tiempoPreparacion>
+    <dificultad>5/10</dificultad>
+    <personas>1</personas>
+  </receta>
+      <receta>
+        <imatge image="../imagenes/salsatomate.jpeg"/>
+        <nombre> Salsa de tomate casera </nombre>
+        <tipo> Salsa </tipo>
+        <tiempoPreparacion> 1,30 horas </tiempoPreparacion>
+        <dificultad> 3/10 </dificultad>
+        <personas> 1 </personas>
+    </receta>
+    <receta>
+        <imatge image="../imagenes/sopitah.jpg"/>
+        <nombre>Sopa de la huerta</nombre>
+        <tipo>Primero</tipo>
+        <tiempoPreparacion> 1 hora</tiempoPreparacion>
+        <dificultad> 5/10</dificultad>
+        <personas>4</personas>
+    </receta>
+    <receta>
+        <imatge image="../imagenes/calabacines.jpg"/>
+        <nombre>Crema de calabacín</nombre>
+        <tipo>Primero</tipo>
+        <tiempoPreparacion> 1,30 horas</tiempoPreparacion>
+        <dificultad> 4/10</dificultad>
+        <personas>2</personas>
+    </receta> 
+    <receta>
+        <imatge image="../imagenes/croquetas.jpeg"/>
+        <nombre> Croquetas de pollo y jamón </nombre>
+        <tipo> Segundo </tipo>
+        <tiempoPreparacion> 30 minutos </tiempoPreparacion>
+        <dificultad> 6/10 </dificultad>
+        <personas> 4 </personas>
+    </receta>
+    <receta>
+        <imatge image="../imagenes/tortilla.jpg"/>
+        <nombre>Tortilla de patatas</nombre>
+        <tipo>Segundo</tipo>
+        <tiempoPreparacion>20 minutos</tiempoPreparacion>
+        <dificultad> 4/10 </dificultad>
+        <personas>5</personas>
+  </receta>
+  <receta>
+    <imatge image="../imagenes/arrozcurry.jpeg"/>
+    <nombre>Arroz blanco con curry</nombre>
+    <tipo>Plato único</tipo>
+    <tiempoPreparacion>30 minutos</tiempoPreparacion>
+    <dificultad>4/10</dificultad>
+    <personas>2</personas>
+  </receta>
+    <receta>
+    <imatge image="../imagenes/chuletacerdo.jpg"/>
+    <nombre>Chuletas de cerdo Tonkatsu</nombre>
+    <tipo>Segundo</tipo>
+    <tiempoPreparacion>20 minutos</tiempoPreparacion>
+    <dificultad>3/10</dificultad>
+    <personas>4</personas>
+  </receta>
+    <receta>
+    <imatge image="../imagenes/pankakes.jpg"/>
+    <nombre>Tortitas caseras</nombre>
+    <tipo>Postre</tipo>
+    <tiempoPreparacion>25 minutos</tiempoPreparacion>
+    <dificultad>4/10</dificultad>
+    <personas>6</personas>
+  </receta>
+    <receta>
+    <imatge image="../imagenes/brocheta.jpg"/>
+    <nombre>Brochetas de champiñones</nombre>
+    <tipo>Primero</tipo>
+    <tiempoPreparacion>10 minutos</tiempoPreparacion>
+    <dificultad>2/10</dificultad>
+    <personas>2</personas>
+  </receta>
+    <receta>
+    <imatge image="../imagenes/mus.jpg"/>
+    <nombre>Mouse de chocolate</nombre>
+    <tipo>Postre</tipo>
+    <tiempoPreparacion>15 minutos</tiempoPreparacion>
+    <dificultad>5/10</dificultad>
+    <personas>1</personas>
+  </receta>
+      <receta>
+        <imatge image="../imagenes/salsatomate.jpeg"/>
+        <nombre> Salsa de tomate casera </nombre>
+        <tipo> Salsa </tipo>
+        <tiempoPreparacion> 1,30 horas </tiempoPreparacion>
+        <dificultad> 3/10 </dificultad>
+        <personas> 1 </personas>
+    </receta>
+    <receta>
+        <imatge image="../imagenes/sopitah.jpg"/>
+        <nombre>Sopa de la huerta</nombre>
+        <tipo>Primero</tipo>
+        <tiempoPreparacion> 1 hora</tiempoPreparacion>
+        <dificultad> 5/10</dificultad>
+        <personas>4</personas>
+    </receta>
+    <receta>
+        <imatge image="../imagenes/calabacines.jpg"/>
+        <nombre>Crema de calabacín</nombre>
+        <tipo>Primero</tipo>
+        <tiempoPreparacion> 1,30 horas</tiempoPreparacion>
+        <dificultad> 4/10</dificultad>
+        <personas>2</personas>
+    </receta> 
+    <receta>
+        <imatge image="../imagenes/croquetas.jpeg"/>
+        <nombre> Croquetas de pollo y jamón </nombre>
+        <tipo> Segundo </tipo>
+        <tiempoPreparacion> 30 minutos </tiempoPreparacion>
+        <dificultad> 6/10 </dificultad>
+        <personas> 4 </personas>
+    </receta>
+    <receta>
+        <imatge image="../imagenes/tortilla.jpg"/>
+        <nombre>Tortilla de patatas</nombre>
+        <tipo>Segundo</tipo>
+        <tiempoPreparacion>20 minutos</tiempoPreparacion>
+        <dificultad> 4/10 </dificultad>
+        <personas>5</personas>
+  </receta>
+  <receta>
+    <imatge image="../imagenes/arrozcurry.jpeg"/>
+    <nombre>Arroz blanco con curry</nombre>
+    <tipo>Plato único</tipo>
+    <tiempoPreparacion>30 minutos</tiempoPreparacion>
+    <dificultad>4/10</dificultad>
+    <personas>2</personas>
+  </receta>
+    <receta>
+    <imatge image="../imagenes/chuletacerdo.jpg"/>
+    <nombre>Chuletas de cerdo Tonkatsu</nombre>
+    <tipo>Segundo</tipo>
+    <tiempoPreparacion>20 minutos</tiempoPreparacion>
+    <dificultad>3/10</dificultad>
+    <personas>4</personas>
+  </receta>
+    <receta>
+    <imatge image="../imagenes/pankakes.jpg"/>
+    <nombre>Tortitas caseras</nombre>
+    <tipo>Postre</tipo>
+    <tiempoPreparacion>25 minutos</tiempoPreparacion>
+    <dificultad>4/10</dificultad>
+    <personas>6</personas>
+  </receta>
+    <receta>
+    <imatge image="../imagenes/brocheta.jpg"/>
+    <nombre>Brochetas de champiñones</nombre>
+    <tipo>Primero</tipo>
+    <tiempoPreparacion>10 minutos</tiempoPreparacion>
+    <dificultad>2/10</dificultad>
+    <personas>2</personas>
+  </receta>
+    <receta>
+    <imatge image="../imagenes/mus.jpg"/>
+    <nombre>Mouse de chocolate</nombre>
+    <tipo>Postre</tipo>
+    <tiempoPreparacion>15 minutos</tiempoPreparacion>
+    <dificultad>5/10</dificultad>
+    <personas>1</personas>
+  </receta>
+      <receta>
+        <imatge image="../imagenes/salsatomate.jpeg"/>
+        <nombre> Salsa de tomate casera </nombre>
+        <tipo> Salsa </tipo>
+        <tiempoPreparacion> 1,30 horas </tiempoPreparacion>
+        <dificultad> 3/10 </dificultad>
+        <personas> 1 </personas>
+    </receta>
+    <receta>
+        <imatge image="../imagenes/sopitah.jpg"/>
+        <nombre>Sopa de la huerta</nombre>
+        <tipo>Primero</tipo>
+        <tiempoPreparacion> 1 hora</tiempoPreparacion>
+        <dificultad> 5/10</dificultad>
+        <personas>4</personas>
+    </receta>
+    <receta>
+        <imatge image="../imagenes/calabacines.jpg"/>
+        <nombre>Crema de calabacín</nombre>
+        <tipo>Primero</tipo>
+        <tiempoPreparacion> 1,30 horas</tiempoPreparacion>
+        <dificultad> 4/10</dificultad>
+        <personas>2</personas>
+    </receta> 
+    <receta>
+        <imatge image="../imagenes/croquetas.jpeg"/>
+        <nombre> Croquetas de pollo y jamón </nombre>
+        <tipo> Segundo </tipo>
+        <tiempoPreparacion> 30 minutos </tiempoPreparacion>
+        <dificultad> 6/10 </dificultad>
+        <personas> 4 </personas>
+    </receta>
+    <receta>
+        <imatge image="../imagenes/tortilla.jpg"/>
+        <nombre>Tortilla de patatas</nombre>
+        <tipo>Segundo</tipo>
+        <tiempoPreparacion>20 minutos</tiempoPreparacion>
+        <dificultad> 4/10 </dificultad>
+        <personas>5</personas>
+  </receta>
+  <receta>
+    <imatge image="../imagenes/arrozcurry.jpeg"/>
+    <nombre>Arroz blanco con curry</nombre>
+    <tipo>Plato único</tipo>
+    <tiempoPreparacion>30 minutos</tiempoPreparacion>
+    <dificultad>4/10</dificultad>
+    <personas>2</personas>
+  </receta>
+    <receta>
+    <imatge image="../imagenes/chuletacerdo.jpg"/>
+    <nombre>Chuletas de cerdo Tonkatsu</nombre>
+    <tipo>Segundo</tipo>
+    <tiempoPreparacion>20 minutos</tiempoPreparacion>
+    <dificultad>3/10</dificultad>
+    <personas>4</personas>
+  </receta>
+    <receta>
+    <imatge image="../imagenes/pankakes.jpg"/>
+    <nombre>Tortitas caseras</nombre>
+    <tipo>Postre</tipo>
+    <tiempoPreparacion>25 minutos</tiempoPreparacion>
+    <dificultad>4/10</dificultad>
+    <personas>6</personas>
+  </receta>
+    <receta>
+    <imatge image="../imagenes/brocheta.jpg"/>
+    <nombre>Brochetas de champiñones</nombre>
+    <tipo>Primero</tipo>
+    <tiempoPreparacion>10 minutos</tiempoPreparacion>
+    <dificultad>2/10</dificultad>
+    <personas>2</personas>
+  </receta>
+    <receta>
+    <imatge image="../imagenes/mus.jpg"/>
+    <nombre>Mouse de chocolate</nombre>
+    <tipo>Postre</tipo>
+    <tiempoPreparacion>15 minutos</tiempoPreparacion>
+    <dificultad>5/10</dificultad>
+    <personas>1</personas>
+  </receta>
+  <receta>
+        <imatge image="../imagenes/salsatomate.jpeg"/>
+        <nombre> Salsa de tomate casera </nombre>
+        <tipo> Salsa </tipo>
+        <tiempoPreparacion> 1,30 horas </tiempoPreparacion>
+        <dificultad> 3/10 </dificultad>
+        <personas> 1 </personas>
+    </receta>
+    <receta>
+        <imatge image="../imagenes/sopitah.jpg"/>
+        <nombre>Sopa de la huerta</nombre>
+        <tipo>Primero</tipo>
+        <tiempoPreparacion> 1 hora</tiempoPreparacion>
+        <dificultad> 5/10</dificultad>
+        <personas>4</personas>
+    </receta>
+</recetario>
